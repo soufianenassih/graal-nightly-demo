@@ -1,0 +1,39 @@
+org.graalvm.20.0.0-dev_linux_amd64=GraalVM 20.0.0-dev linux/amd64
+org.graalvm.20.0.0-dev_macos_amd64=GraalVM 20.0.0-dev macos/amd64
+org.graalvm.20.0.0-dev_linux_aarch64=GraalVM 20.0.0-dev linux/aarch64
+
+Component.20.0.0-dev_linux_amd64.org.graalvm.llvm_toolchain=https://github.com/soufianenassih/graal-nightly-demo/releases/download/20.0.0-dev_20200117-1355/llvm-toolchain-installable-java8-linux-amd64-20.0.0-dev.jar
+Component.20.0.0-dev_linux_amd64.org.graalvm.llvm_toolchain-hash=73b354f0f6caafb2f98321aa6e6e4fa3d17f725bfe5d948ad596fa7188350fad
+Component.20.0.0-dev_linux_amd64.org.graalvm.llvm_toolchain-Bundle-Symbolic-Name=org.graalvm.llvm-toolchain
+Component.20.0.0-dev_linux_amd64.org.graalvm.llvm_toolchain-Bundle-RequireCapability=org.graalvm; filter:="(&(graalvm_version=20.0.0-dev)(os_name=linux)(os_arch=amd64)(java_version=8))"
+Component.20.0.0-dev_linux_amd64.org.graalvm.llvm_toolchain-Bundle-Name=LLVM.org toolchain
+Component.20.0.0-dev_linux_amd64.org.graalvm.llvm_toolchain-Bundle-Version=20.0.0-dev
+Component.20.0.0-dev_linux_amd64.org.graalvm.llvm_toolchain-x-GraalVM-Polyglot-Part=False
+Component.20.0.0-dev_macos_amd64.org.graalvm.llvm_toolchain=https://github.com/soufianenassih/graal-nightly-demo/releases/download/20.0.0-dev_20200117-1355/llvm-toolchain-installable-java8-darwin-amd64-20.0.0-dev.jar
+Component.20.0.0-dev_macos_amd64.org.graalvm.llvm_toolchain-hash=14f56749336a09ca0530358558e1c7944aa314059c4b6a30ef29743d0f362d31
+Component.20.0.0-dev_macos_amd64.org.graalvm.llvm_toolchain-Bundle-Symbolic-Name=org.graalvm.llvm-toolchain
+Component.20.0.0-dev_macos_amd64.org.graalvm.llvm_toolchain-Bundle-RequireCapability=org.graalvm; filter:="(&(graalvm_version=20.0.0-dev)(os_name=macos)(os_arch=amd64)(java_version=8))"
+Component.20.0.0-dev_macos_amd64.org.graalvm.llvm_toolchain-Bundle-Name=LLVM.org toolchain
+Component.20.0.0-dev_macos_amd64.org.graalvm.llvm_toolchain-Bundle-Version=20.0.0-dev
+Component.20.0.0-dev_macos_amd64.org.graalvm.llvm_toolchain-x-GraalVM-Polyglot-Part=False
+Component.20.0.0-dev_linux_amd64.org.graalvm.llvm_toolchain=https://github.com/soufianenassih/graal-nightly-demo/releases/download/20.0.0-dev_20200117-1355/llvm-toolchain-installable-java11-linux-amd64-20.0.0-dev.jar
+Component.20.0.0-dev_linux_amd64.org.graalvm.llvm_toolchain-hash=a657f6a457746118f3a03c99a4f8dd8166babdf4b1398224167e5b98e02a8e65
+Component.20.0.0-dev_linux_amd64.org.graalvm.llvm_toolchain-Bundle-Symbolic-Name=org.graalvm.llvm-toolchain
+Component.20.0.0-dev_linux_amd64.org.graalvm.llvm_toolchain-Bundle-RequireCapability=org.graalvm; filter:="(&(graalvm_version=20.0.0-dev)(os_name=linux)(os_arch=amd64)(java_version=11))"
+Component.20.0.0-dev_linux_amd64.org.graalvm.llvm_toolchain-Bundle-Name=LLVM.org toolchain
+Component.20.0.0-dev_linux_amd64.org.graalvm.llvm_toolchain-Bundle-Version=20.0.0-dev
+Component.20.0.0-dev_linux_amd64.org.graalvm.llvm_toolchain-x-GraalVM-Polyglot-Part=False
+Component.20.0.0-dev_linux_aarch64.org.graalvm.llvm_toolchain=https://github.com/soufianenassih/graal-nightly-demo/releases/download/20.0.0-dev_20200117-1355/llvm-toolchain-installable-java11-linux-aarch64-20.0.0-dev.jar
+Component.20.0.0-dev_linux_aarch64.org.graalvm.llvm_toolchain-hash=f01f38a854b47e60afb988786bd05cea557a5a032483eb3e63e2559310d2e15b
+Component.20.0.0-dev_linux_aarch64.org.graalvm.llvm_toolchain-Bundle-Symbolic-Name=org.graalvm.llvm-toolchain
+Component.20.0.0-dev_linux_aarch64.org.graalvm.llvm_toolchain-Bundle-RequireCapability=org.graalvm; filter:="(&(graalvm_version=20.0.0-dev)(os_name=linux)(os_arch=aarch64)(java_version=11))"
+Component.20.0.0-dev_linux_aarch64.org.graalvm.llvm_toolchain-Bundle-Name=LLVM.org toolchain
+Component.20.0.0-dev_linux_aarch64.org.graalvm.llvm_toolchain-Bundle-Version=20.0.0-dev
+Component.20.0.0-dev_linux_aarch64.org.graalvm.llvm_toolchain-x-GraalVM-Polyglot-Part=False
+Component.20.0.0-dev_macos_amd64.org.graalvm.llvm_toolchain=https://github.com/soufianenassih/graal-nightly-demo/releases/download/20.0.0-dev_20200117-1355/llvm-toolchain-installable-java11-darwin-amd64-20.0.0-dev.jar
+Component.20.0.0-dev_macos_amd64.org.graalvm.llvm_toolchain-hash=e8a6d7aa14acf07f074e082cbee831dab22f3e8da4ee333cafa4cb10958f9013
+Component.20.0.0-dev_macos_amd64.org.graalvm.llvm_toolchain-Bundle-Symbolic-Name=org.graalvm.llvm-toolchain
+Component.20.0.0-dev_macos_amd64.org.graalvm.llvm_toolchain-Bundle-RequireCapability=org.graalvm; filter:="(&(graalvm_version=20.0.0-dev)(os_name=macos)(os_arch=amd64)(java_version=11))"
+Component.20.0.0-dev_macos_amd64.org.graalvm.llvm_toolchain-Bundle-Name=LLVM.org toolchain
+Component.20.0.0-dev_macos_amd64.org.graalvm.llvm_toolchain-Bundle-Version=20.0.0-dev
+Component.20.0.0-dev_macos_amd64.org.graalvm.llvm_toolchain-x-GraalVM-Polyglot-Part=False
